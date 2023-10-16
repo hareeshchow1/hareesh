@@ -1,3 +1,4 @@
+![Logo](https://github.com/hareeshchow1/hareesh/blob/main/hareesh-min.png)
 <h1 align="center">Hi 👋, I'm Hareesh Chow</h1>
 <h3 align="center">A passionate python Tester from India</h3>
 
